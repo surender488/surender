@@ -1,0 +1,20 @@
+I implements I-not possible
+I implements C-not possible
+I implements A-not possible
+I extends I-possible
+I extends C-not possible
+I extends A-not possible
+
+C implements I-possible
+C implements C-not possible
+C implements A-not possible
+C extends I-not possible
+C extends C-possible
+C extends A possible
+
+A implements I-possible
+A implements C-not possible
+A implements A-not possible
+A extends I-possible
+A extends C-possible
+A extends A-possible
